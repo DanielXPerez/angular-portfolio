@@ -9,21 +9,26 @@ declare var data : any;
 	styleUrls: ['./portfolio.component.css']
 })
 export class PortfolioComponent implements OnInit, AfterViewInit {
-	public portfolioData = data['Portfolio']['react'];
+	public portfolioData = data['Portfolio'];
 	public navTabs = [{
-		id: "react",
-		name: "react/react native",
+		id: "web",
+		name: "WEB",
 		placement: "top"
 	}, {
-		id: "trading",
-		name: "trading",
+		id: "mobile",
+		name: "MOBILE",
 		placement: "bottom"
 	}, {
-		id: "cms",
-		name: "cms",
+		id: "ai",
+		name: "AI",
+		placement: "bottom"
+	},
+	{
+		id: "blockchain",
+		name: "BLOCKCHAIN",
 		placement: "top"
 	}];
-	public activeTab = "react";
+	public activeTab = "web";
 	public selector : any;
 
 	public activeElements : any = {};
