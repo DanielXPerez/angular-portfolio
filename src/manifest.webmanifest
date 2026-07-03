@@ -1,13 +1,13 @@
 {
-	"name": "Christoffer Ali Personal Portfolio",
-	"short_name": "Christoffer Ali",
-	"description": "Christoffer Ali (Christoffer Ali) - A Programming Enthusiast eager to learn new skills and contribute through hard work, innovative ideas, and great skills.",
+	"name": "Daniel Perez Personal Portfolio",
+	"short_name": "Daniel Perez",
+	"description": "Daniel Perez - Senior Software Engineer with expertise in Python3, Java, Rust, and a strong focus on performance optimization, codebase refactoring, and feature implementation.",
 	"categories": ["personalization", "education"],
 	"screenshots": [{
 		"src": "screenshots/screenshot.gif",
 		"type": "image/gif",
 		"sizes": "1472x958",
-		"label": "Christoffer Ali's Personal Portfolio"
+		"label": "Daniel Perez's Personal Portfolio"
 	}],
 	"icons": [{
 		"src": "assets/images/Profile-pic-144x144.png",
