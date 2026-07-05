@@ -1,22 +1,23 @@
 {
   "name": "naturalspirit-dev.github.io",
   "version": "2.0.0",
-  "description": "Christoffer Ali (Christoffer Ali)'s Personal Portfolio",
+  "description": "Daniel Perez's Personal Portfolio",
   "main": "index.js",
-  "author": "Christoffer Ali",
+  "author": "Daniel Perez",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nauralspirit-dev/naturalspirit-dev.github.io/issues"
   },
   "keywords": [
-    "Christoffer",
-    "Christoffer Ali",
-    "Christoffer Ali Portfolio",
-    "ChristofferAli0102",
-    "Christoffer Ali (Christoffer Ali)'s Personal Portfolio"
+    "Daniel Perez",
+    "Daniel Perez Portfolio",
+    "Daniel Perez's Personal Portfolio"
   ],
   "repository": "https://github.com/nauralspirit-dev/naturalspirit-dev.github.io",
   "homepage": "https://naturalspirit-dev.github.io",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
