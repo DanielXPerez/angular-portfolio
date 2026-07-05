@@ -15,6 +15,9 @@
   ],
   "repository": "https://github.com/nauralspirit-dev/naturalspirit-dev.github.io",
   "homepage": "https://naturalspirit-dev.github.io",
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
